@@ -1,4 +1,4 @@
-const apiKey = 'xOhJaij0iL0K3CoP6gQZ';
+const apiKey = 'AIzaSyCmPpV_sXdT6maGIgFcvnLfh-2LU-aB9qc';
 const scoreList = document.querySelector('.score-list');
 
 const displayScore = (scores) => {
